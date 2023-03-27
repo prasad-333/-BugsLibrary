@@ -1,0 +1,14 @@
+Steps to recreate issue - 
+1. User is already logged-in in the MY HYPERSKILL Android app. 
+2. User turns off the internet on the device. 
+3. Open the MY HYPERSKILL app. 
+4. Shows error like "It seems like a network eror". 
+5. Turn on the internet of device. 
+6. re-open the app. 
+7. Boom!!! User gets logged-out of the app. 
+
+Expected - 
+User should remain logged-in into their profile. 
+
+Actual - 
+User gets logged-out of the app. 
