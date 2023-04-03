@@ -1,0 +1,14 @@
+1. User is watching normal Youtube video. 
+2. User get notification of Youtube shorts video. 
+3. On normal video mode user click on gear icon(settings) & it opens dialog with options to change video speed, audio track etc. 
+4. Without dismissing the dialog, User click the YT short video notification.
+5. It starts to play YT shorts video with settings dialog still on front. 
+
+Actual - 
+Settings dialog stays as is. 
+
+Expected - 
+Dialog should get dismiss automatically. 
+
+Note - I am on latest version on android app at the time of reporting. 
+Android 11 from Google. 
