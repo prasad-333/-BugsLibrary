@@ -1,0 +1,16 @@
+1. Open Youtube app
+2. Create new playlist or modified existing one. 
+3. Come back to "Library" tab.
+4. open the newly created or modified playlist. 
+5. Click "Delete playlist" option from overflow menu. 
+6. It redirects back to "Library" tab with toast message "Playlist deleted" . 
+7. Deleted playlist stays as it is. 
+
+Actual - 
+Deleted playlist does not get deleted. 
+
+Expected - 
+Playlist should be deleted. If user does swipe refresh it deletes the playlist. 
+
+Note - I am on latest version on android app at the time of reporting. 
+Android 11 from Google. 
