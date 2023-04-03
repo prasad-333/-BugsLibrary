@@ -1,0 +1,2 @@
+Feature to filter/search based particular day of the week with or without user entered input search words in search screen. 
+This should work with "Moods" &  "Activities" button on search screen. Basically option to choose day or days of week like Monday only; Monday-Tuesday only. 
