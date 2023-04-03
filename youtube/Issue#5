@@ -1,0 +1,22 @@
+1. User watching normal length video on Youtube. 
+2. User changes the "Playback speed" from default "Normal". 
+3. User receives push notification for Youtube short video. 
+4. User clicks the push notification. 
+5. Shorts video plays. 
+6. User clicks back button. 
+7. Normal video resumes but playback speed change back to default normal. 
+
+Actual - 
+Playback speed change back to default. 
+
+Expected - 
+Playback speed should not get change. 
+
+
+Note - I am on latest version on android app at the time of reporting. 
+Android 11 from Google. 
+
+
+
+
+
