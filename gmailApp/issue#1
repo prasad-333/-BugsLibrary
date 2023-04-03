@@ -1,0 +1,19 @@
+
+Issue - 
+1. Add new folder in file storage with any file inside it for attachment to Gmail. Create folder in predefined suggested folder like "Downloads", "Documents".
+2. Open Gmail Android App. 
+3. Click on attachment icon/ . 
+4. Try to locate new file in newly created folder from suggested folder from navigation drawer "Downloads" in our case. 
+5. Unabe to find created folder in "Downloads". 
+6. Try swipe refresh on "Downloads" folder still it does not reflect. 
+
+
+Actual - 
+Unable to locate the folder hence file. 
+
+Expected - 
+Should be able to locate & attach the new file. It does work if user navigates from root of storage. 
+
+
+Note - I am on latest version on android app at time of reporting. 
+Android 11 from Google. 
