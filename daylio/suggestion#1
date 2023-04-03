@@ -1,0 +1,8 @@
+If user tries to add another entry at the same time, it will be nice to show pop-up asking if user wants 
+to merge to existing entry or not. 
+If user clicks yes it should merge else it should create it as new entry. 
+
+
+
+Note - I am on latest version on android app at time of reporting. 
+Android 11 from Google. 
