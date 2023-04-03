@@ -1,0 +1,11 @@
+1. Open youtube shorts video. 
+2. Try to control video player from connected bluetooth headset/headphone. 
+3. Try pause & play from headset/headphone it does not work. 
+
+Actual - 
+Pause & play does not work like normal YouTube video. 
+
+Expected - 
+Pause & play control should work from headset/headphone as volume up & down works for shorts video. 
+
+
