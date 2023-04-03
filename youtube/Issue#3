@@ -1,0 +1,19 @@
+1. User is on Youtube app. 
+2. User receives Youtube shorts video push notification. 
+3. User navigates to notification center screen of the app.
+4. User locate that shorts video & plays it from notification center of the app.
+5. while user playing that shorts video, user also clicks the received push notification to open that video. 
+6. Same shorts video starts to play. 
+7. User clicks back button previous instant of same video playing. 
+
+Actual - 
+Same video plays even user has opened video from different location. 
+
+Expected - 
+Only single instance of SAME video should be playing. on back button click it should dismiss that video screen. 
+Looks for YT shorts video always uses "Standard Launch" mode for shorts video playing activity. 
+
+
+
+Note - I am on latest version on android app at the time of reporting. 
+Android 11 from Google. 
