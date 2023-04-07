@@ -1,0 +1,12 @@
+1. User login into netbanking. 
+2. Schedules any type of transaction(NEFT/RTGS) for future date successfully. 
+3. User navigates to scheduled transactions page. 
+4. User clicks transaction number of any scheduled transaction. 
+5. User shown with modal dialog with transaction details. 
+6. User can go back or dismiss dialog as this dialog bercomes the main website. 
+
+Actual - 
+Dialog with transaction details does not dismiss. 
+
+Expected - 
+Dialog with transaction details should get dismiss & user nvaigate back to main web page. 
