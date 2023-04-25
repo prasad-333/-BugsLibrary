@@ -1,0 +1,12 @@
+1. Open website on daily panchang & observe title heading on each sub-section
+2. Now Open app on daily panchang, title heading of sub-section is missing. 
+
+
+Actual - 
+Title headings missing for sub-sections.
+
+Expected - 
+Title headings for sub-section similar to website. 
+
+
+Note - I am on latest version on android app at time of reporting. 
